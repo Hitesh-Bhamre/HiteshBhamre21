@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/3c/fe/89/3cfe89b75fa383c7e9ae5a52efb975cb.jpg)
+#![logo]()
 <h1 align="center">Hi 👋, I'm Hitesh Bhamre</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Analyst" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif"
