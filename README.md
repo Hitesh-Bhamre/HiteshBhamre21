@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F435793701424570973%2F&psig=AOvVaw1btezNLngeV08GkwxtdeCv&ust=1672041209304000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjSvISllPwCFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Hitesh Bhamre</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Analyst" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F557531628861069200%2F&psig=AOvVaw3udBm2wbM5GlxsgqgyozIE&ust=1672040733759000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC25qGjlPwCFQAAAAAdAAAAABAE"
+<img align="right" alt="Analyst" width="400" src="https://www.pinterest.com/pin/557531628861069200/"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshbhamre21&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshbhamre21" /> </p>
 
