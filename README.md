@@ -1,4 +1,4 @@
-#![logo](https://github.com/HiteshBhamre21/HiteshBhamre21/blob/main/banner.png)
+![logo](https://github.com/HiteshBhamre21/HiteshBhamre21/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Hitesh Bhamre</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Analyst" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif"
