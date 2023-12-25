@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Analyst" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshbhamre21" /> </p>
+<p align="left"> <img src="" alt="hiteshbhamre21" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hitesh122118" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh122118?logo=twitter&style=for-the-badge" alt="hitesh122118" /></a> </p>
 
